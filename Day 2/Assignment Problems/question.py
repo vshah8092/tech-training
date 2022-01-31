@@ -19,7 +19,7 @@ class Stack:
             return self.stack[-1][1]
         return
 
-#Driver Coder
+#Driver Code
 q = int(input())
 s = Stack()
 for i in range(q):
